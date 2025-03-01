@@ -75,8 +75,8 @@ The Supabase PostgreSQL database includes the following main tables:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/notsosocial-media.git
-   cd notsosocial-media
+   git clone https://github.com/yourusername/notsosocial.git
+   cd notsosocial
    ```
 
 2. Install dependencies:
@@ -171,7 +171,7 @@ supabase
 
 Shovon Saha - [theshovonsaha@gmail.com](mailto:theshovonsaha@gmail.com)
 
-Project Link: [https://github.com/theshovon/notsosocial-media](https://github.com/theshovon/notsosocial)
+Project Link: [https://github.com/theshovon/notsosocial](https://github.com/theshovon/notsosocial)
 
 ---
 
