@@ -171,7 +171,7 @@ supabase
 
 Shovon Saha - [theshovonsaha@gmail.com](mailto:theshovonsaha@gmail.com)
 
-Project Link: [https://github.com/theshovon/notsosocial](https://github.com/theshovon/notsosocial)
+Project Link: [https://github.com/theshovonsaha/notsosocial](https://github.com/theshovonsaha/notsosocial)
 
 ---
 
