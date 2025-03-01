@@ -169,7 +169,7 @@ supabase
 
 ## Contact
 
-Theshovon Saha - [theshovon.dev@gmail.com](mailto:theshovonsaha@gmail.com)
+Shovon Saha - [theshovonsaha@gmail.com](mailto:theshovonsaha@gmail.com)
 
 Project Link: [https://github.com/theshovon/notsosocial-media](https://github.com/theshovon/notsosocial)
 
